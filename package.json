@@ -1,7 +1,6 @@
 {
   "name": "sj",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,11 +25,20 @@
     "mariadb": "^3.0.1",
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
-    "phpmyadmin": "^9.9.0",
+    "phpmyadmin": "^0.0.1-security",
     "sequelize": "^6.21.4",
     "sequelize-cli": "^6.4.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazarGrbic11/sj1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LazarGrbic11/sj1/issues"
+  },
+  "homepage": "https://github.com/LazarGrbic11/sj1#readme",
+  "description": ""
 }
