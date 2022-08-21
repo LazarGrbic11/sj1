@@ -28,7 +28,8 @@
     "mysql2": "^2.3.3",
     "phpmyadmin": "^0.0.1-security",
     "sequelize": "^6.21.4",
-    "sequelize-cli": "^6.4.1"
+    "sequelize-cli": "^6.4.1",
+    "vue-socket.io": "^3.0.10"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
